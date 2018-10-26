@@ -88,12 +88,12 @@ a {
   display: none;
 }
 
-/*.dropdown dd ul li a {
+.dropdown dd ul li a {
   padding: 5px;
   display: block;
 }
 
-.dropdown dd ul li a:hover {
+/*.dropdown dd ul li a:hover {
   background-color: #fff;
 }
 
