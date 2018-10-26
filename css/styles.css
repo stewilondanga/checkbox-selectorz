@@ -93,11 +93,11 @@ a {
   display: block;
 }
 
-/*.dropdown dd ul li a:hover {
+.dropdown dd ul li a:hover {
   background-color: #fff;
 }
 
-button {
+/*button {
   background-color: #6BBE92;
   width: 302px;
   border: 0;
