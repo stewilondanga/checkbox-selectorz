@@ -45,15 +45,14 @@ a {
   position: relative;
 }
 
-/*.dropdown a,
-.dropdown a:visited {
+.dropdown a, .dropdown a:visited {
   color: #fff;
   text-decoration: none;
   outline: none;
   font-size: 12px;
 }
 
-.dropdown dt a {
+/*.dropdown dt a {
   background-color: #4F6877;
   display: block;
   padding: 8px 20px 5px 10px;
