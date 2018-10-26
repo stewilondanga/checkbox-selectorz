@@ -32,13 +32,12 @@ a {
   color: #fff;
 }
 
-/*.dropdown dd,
-.dropdown dt {
+.dropdown dd, .dropdown dt {
   margin: 0px;
   padding: 0px;
 }
 
-.dropdown ul {
+/*.dropdown ul {
   margin: -1px 0 0 0;
 }
 
