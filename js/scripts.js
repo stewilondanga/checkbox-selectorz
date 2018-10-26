@@ -7,11 +7,11 @@ var navigate = (function() {
   });
 })();
 
-/*$(".dropdown dt a").on('click', function() {
+$(".dropdown dt a").on('click', function() {
   $(".dropdown dd ul").slideToggle('fast');
 });
 
-$(".dropdown dd ul li a").on('click', function() {
+/*$(".dropdown dd ul li a").on('click', function() {
   $(".dropdown dd ul").hide();
 });
 
