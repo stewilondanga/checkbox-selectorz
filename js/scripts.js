@@ -19,12 +19,12 @@ function getSelectedValue(id) {
   return $("#" + id).find("dt a span.value").html();
 }
 
-/*$(document).bind('click', function(e) {
+$(document).bind('click', function(e) {
   var $clicked = $(e.target);
   if (!$clicked.parents().hasClass("dropdown")) $(".dropdown dd ul").hide();
 });
 
-$('.mutliSelect input[type="checkbox"]').on('click', function() {
+/*$('.mutliSelect input[type="checkbox"]').on('click', function() {
 
   var title = $(this).closest('.mutliSelect').find('input[type="checkbox"]').val(),
     title = $(this).val() + ",";
