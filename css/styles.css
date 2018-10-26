@@ -63,14 +63,13 @@ a {
   width: 272px;
 }
 
-/*.dropdown dt a span,
-.multiSel span {
+.dropdown dt a span, .multiSel span {
   cursor: pointer;
   display: inline-block;
   padding: 0 3px 2px 0;
 }
 
-.dropdown dd ul {
+/*.dropdown dd ul {
   background-color: #4F6877;
   border: 0;
   color: #fff;
